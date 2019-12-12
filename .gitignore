@@ -1,1 +1,4 @@
 **/build/*
+flash/src/content/*.mdx
+!flash/src/content/Main.mdx
+*.cache
